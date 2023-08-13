@@ -35,7 +35,11 @@ Answer 2
 | Mod | Forge 1.12.2 | 
 | Mod | Forge 1.12.2 |
 
+> [!NOTE]
+> All the mods are in this ZIP file: [Click Here!](https://www.dropbox.com/sh/x212pf31khqj8zf/AABHVrLfW68hJIOX8rnQKF9na?dl=0)
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/PAC/Mods/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download PAC/Mods on GitHub">Download</a>
 ## Our Badge
 
 **This is our badge**
