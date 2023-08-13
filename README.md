@@ -40,7 +40,8 @@ Answer 2
 
 **This is our badge**
 
-![Static Badge](https://img.shields.io/badge/--Police-Criminals---?style=plastic&logo=minecraft&logoColor=%2362B47A&label=Police&labelColor=0029ff&color=ff9500&link=https%3A%2F%2Fgithub.com%2Fantoniszikos16%2FPolice-And-Criminals-MC%2Ftree%2Fmain&link=https%3A%2F%2Fdiscord.gg%2FxcNzMccKXb)
+![Static Badge](https://img.shields.io/badge/--Police-Criminals---?style=plastic&logo=minecraft&logoColor=%2362B47A&label=Police&labelColor=0029ff&color=ff9500&link=https%3A%2F%2Fdiscord.gg%2FxcNzMccKXb)
+
 
 
 
