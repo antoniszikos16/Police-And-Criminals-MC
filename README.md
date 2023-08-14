@@ -11,7 +11,6 @@ This is a page about a minecraft server called **Police and Criminals** or **PAC
 **Police and Criminals** is a minecraft server about the classic game police and thieves we have a kinda better way making it in minecraft if you want to know how our server works then go to the **[How It Works](https://github.com/antoniszikos16/Police-And-Criminals-MC/blob/main/README.md#how-it-works)** below! Also don't forget to join our [**Communications Discord Server**](https://discord.gg/NHJ7DmMm8k). We hope that you have a great time playing in our server.
 
 
-## How It Works
 ## Features
 
 - Light/dark mode toggle
@@ -20,6 +19,8 @@ This is a page about a minecraft server called **Police and Criminals** or **PAC
 - Cross platform
 
 
+## How It Works
+First of all
 ## FAQ
 
 #### Question 1
@@ -42,6 +43,8 @@ Answer 2
 
 > [!NOTE]
 > All the mods are in this ZIP file: [Click Here!](https://www.dropbox.com/sh/x212pf31khqj8zf/AABHVrLfW68hJIOX8rnQKF9na?dl=0)
+> [!IMPORTANT]
+> Don't forget that the minecraft server is private and you need to apply to join. You can apply in the [#💼︱apply-here](https://discord.com/channels/1122603524728037376/1140580718704078868/1140580903920349204) discord channel.
 
 
 ## Support
