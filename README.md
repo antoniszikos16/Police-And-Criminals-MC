@@ -42,10 +42,10 @@ Answer 2
 | Mod | Forge 1.12.2 |
 
 > [!NOTE]
-> All the mods are in this ZIP file: [Click Here!](https://www.dropbox.com/sh/x212pf31khqj8zf/AABHVrLfW68hJIOX8rnQKF9na?dl=0)
+> 📦 All the mods are in this ZIP file: [Click Here!](https://www.dropbox.com/sh/x212pf31khqj8zf/AABHVrLfW68hJIOX8rnQKF9na?dl=0)
 
 > [!IMPORTANT]
-> Don't forget that the minecraft server is private and you need to apply to join. You can apply in the [#💼︱apply-here](https://discord.com/channels/1122603524728037376/1140580718704078868/1140580903920349204) discord channel.
+> 🔒 Don't forget that the Minecraft server is private and you need to apply to join. You can apply in the [#💼︱apply-here](https://discord.com/channels/1122603524728037376/1140580718704078868/1140580903920349204) discord channel.
 
 
 ## Support
