@@ -8,7 +8,7 @@ This is a page about a minecraft server called **Police and Criminals** or **PAC
 
 
 ## 🚀 About Us
-**Police and Criminals** is a minecraft server about the classic game police and thieves we have a kinda better way making it in minecraft if you want to know how our server works then go to the **How It Works** below! Also don't forget to join our [**Communications Discord Server**](https://discord.gg/NHJ7DmMm8k). We hope that you have a great time playing in our server.
+**Police and Criminals** is a minecraft server about the classic game police and thieves we have a kinda better way making it in minecraft if you want to know how our server works then go to the **[How It Works](https://github.com/antoniszikos16/Police-And-Criminals-MC/blob/main/README.md#how-it-works)** below! Also don't forget to join our [**Communications Discord Server**](https://discord.gg/NHJ7DmMm8k). We hope that you have a great time playing in our server.
 
 
 ## How It Works
