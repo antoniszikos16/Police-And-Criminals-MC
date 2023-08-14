@@ -28,7 +28,7 @@ First of all there are 2 teams, the police team and the criminal team. The polic
 
 #### Is the server public?
 
-No. you need to apply to join. You can apply here.
+No. you need to apply to join. You can [apply here](https://github.com/antoniszikos16/Police-And-Criminals-MC/blob/main/README.md#-other).
 
 #### Can cracked accounts join?
 
