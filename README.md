@@ -19,7 +19,8 @@ This is a page about a minecraft server called **Police and Criminals** or **PAC
 - Cross platform
 
 
-## How It Works
+##  How It Works
+###### ⚙ So you want to know how our server works, well you are at the right place!
 First of all
 ## FAQ
 
