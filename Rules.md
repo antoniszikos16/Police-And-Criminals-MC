@@ -19,15 +19,15 @@ This page is page about the **Rules** of the **Server**.
 - No DDoSing or Doxing
     - You are not allowed to reveal, request, or threaten to reveal any personal information about yourself or another player, including (but not limited to):
 
-        ▪ Phone numbers
+        - Phone numbers
 
-        ▪ IP addresses
+        - IP addresses
 
-        ▪ Real-life addresses
+        - Real-life addresses
 
-        ▪ Personal social media
+        - Personal social media
 
-        ▪ Full names
+        - Full names
 ## 📘 Discord Rules
 ## Authors
 
