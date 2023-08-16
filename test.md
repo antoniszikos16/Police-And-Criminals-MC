@@ -1,2 +1,1 @@
-:_{rules.png}: 🇦🇨
-![Rules](rules.png)
+:_{rules.ico}:
