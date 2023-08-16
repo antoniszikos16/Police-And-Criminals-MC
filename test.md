@@ -1,1 +1,1 @@
-:~{rules}:
+:_{rules.png}:
