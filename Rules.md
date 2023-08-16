@@ -13,6 +13,9 @@ This is a page about a minecraft server called **Police and Criminals** or **PAC
 
 This page is page about the **Rules** of the **Server**.
 ## 📗 Minecraft/In-Game Rules
+
+- ❌ ***NO Spawn Killing***
+    - Do **NOT** spawn killing in the server in any of the team you are on, that means if you kill somebody, then you go to where they spawn and you constantly killing him that is spawn killing and it will result in a 1 day ban.
 ## 📘 Discord Rules
 ## Authors
 
