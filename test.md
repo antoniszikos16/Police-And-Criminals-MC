@@ -1,1 +1,1 @@
-:_{pac-rules_book}:
+:_{rules}:
