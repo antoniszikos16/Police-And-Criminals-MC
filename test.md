@@ -1,2 +1,2 @@
-:_{rules.png}:
+:_{rules.png}: 🇦🇨
 ![Rules](rules.png)
