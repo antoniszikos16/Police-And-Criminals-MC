@@ -13,7 +13,7 @@ This is a page about a minecraft server called **Police and Criminals** or **PAC
 
 This page is page about the **Rules** of the **Server**.
 ## 📗 Minecraft/In-Game Rules
-
+### 📒 *General Rules*
 - ❌ **No Spawn Killing**
     - Do **NOT** spawn killing in the server in any of the team you are on, that means if you kill somebody, then you go to where they spawn and you constantly killing him that is spawn killing and it will result in a 1 day ban.
 
@@ -59,6 +59,19 @@ This page is page about the **Rules** of the **Server**.
         - We consider anyone under the age of 18 to be a minor.
 
         - If you suspect this behavior or think you might be a victim, please report it to Hannah IMMEDIATELY.
+
+- ❌ **No Private Messaging Staff on Discord**
+
+    - Please do not private message staff on Discord when you need assistance. Open a support ticket in the PokéWild Discord or use the Support Chat channel.
+
+    - Private messaging a staff member about a ticket you have opened will not get your ticket resolved any faster. You may ping a staff role ONCE in your ticket if it has not been answered within 24 hours.
+
+    - Please be patient. We have a lot of tickets and we try to get to them as fast as we can. Remember, the staff are humans!
+
+> [!NOTE]
+> You are still allowed to DM staff for general conversation, friendly banter, etc.
+
+- **Understand that Discord's Term of Service has to be followed at all times on our Discord Server. You can find Discord’s ToS [here](https://discord.com/terms).**
 ## 📘 Discord Rules
 ## Authors
 
