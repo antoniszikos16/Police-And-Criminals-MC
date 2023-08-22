@@ -72,6 +72,56 @@ This page is page about the **Rules** of the **Server**.
 > You are still allowed to DM staff for general conversation, friendly banter, etc.
 
 - **Understand that Discord's Term of Service has to be followed at all times on our Discord Server. You can find Discord’s ToS [here](https://discord.com/terms).**
+### 💬 *Chat Rules*
+- ❌ **No Spam**
+
+    - You are not allowed to spam chat, flood chat, spam characters, or overuse caps. (even in /msg or /ask).
+
+    - Inciting spam is also prohibited.
+- ❌ **No Advertising**
+
+    - You are not allowed to advertise anything that is not related to PokéWild. This includes IP addresses or names of other servers, any media from/about another server, or encouraging players to join another server in any form. You are also not allowed to advertise your own social media or other social links.
+
+    - **Allowed:** You are allowed to advertise any media related to PokéWild (but please do not spam it).
+- ❌ **No Posting Unauthorized Links**
+
+    - You can not post links that are not affiliated with PokéWild or Pokémon.
+- ❌ **No Inappropriate Chat**
+
+    - You are not allowed to discuss anything that would be considered inappropriate, 18+, or illegal (such as drugs or NSFW content). This includes using codewords or censored words.
+
+    - Conversations about socially inflammatory topics such as politics, race, and religion must remain civil. Do not attack anyone for their point of view. However, the best policy is to avoid these topics altogether. We're here to have fun!
+- ❌ **No Inappropriate Content / Behavior**
+
+    - Inappropriate usernames, profile pictures, status messages, skins, nicknames, or emotes will not be allowed and you will be asked immediately to change them.
+- ❌ **No Death Threats, Threats of Harm, or Encouraging Self-Harm**
+
+    - You are not allowed to make threats towards others that could be deemed inappropriate or harmful, or encourage people to harm themselves or others.
+- ❌ **No Offensive Slurs / Hate Speech**
+
+    - You are not allowed to use offensive slurs or content pertaining to race, religion, sexuality, gender identity, age, or disability.
+
+    - Inciting racism or other hate speech in chat is also prohibited.
+- ❌ **No Staff Impersonation**
+
+    - You are not allowed to impersonate members of staff.
+
+- ❌ **No Misleading Information**
+
+    - Do not intentionally spread false information about the game, other players, staff, or anything else to confuse others.
+- ❌ **No Harassment**
+
+    - You are not allowed to harass or bully other players or staff for any reason.
+- ❌ **No Lying to Staff**
+
+    - You are not allowed to lie to staff under any circumstances.
+- ❌ **No Using Language Other Than English in General Chat**
+
+    - If you would like to speak in another language, please use /lang or keep it in your private messages. Using languages other than English in general chat makes it harder for our staff team to moderate chat as most of us are English-speaking only.
+
+- ❌ **No Discussing Player Punishments**
+
+    - Please refrain from discussing your own punishments and other players' punishments in public chat.
 ## 📘 Discord Rules
 ## Authors
 
