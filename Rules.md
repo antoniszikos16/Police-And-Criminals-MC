@@ -12,7 +12,14 @@ This is a page about a minecraft server called **Police and Criminals** or **PAC
 ## ❓ What is this page?
 
 This page is page about the **Rules** of the **Server**.
-## 📗 Minecraft/In-Game Rules
+## 📙 Police and Criminals Server Rules
+Welcome to Police and Criminals! Below you will find a list of our rules and guidelines. Failure to comply will result in punishments. Rules are subject to change at any time and any changes will be logged in the changelog channel in the [Discord](https://discord.gg/aY7TK9854s).
+
+
+> [!NOTE]
+> **Some things might not be listed but will still be subject to punishment. If you have any questions about a rule or punishment, [please open a support ticket](https://discord.gg/kkezXwAdRM).**
+
+
 ### 📒 *General Rules*
 - ❌ **No Spawn Killing**
     - Do **NOT** spawn killing in the server in any of the team you are on, that means if you kill somebody, then you go to where they spawn and you constantly killing him that is spawn killing and it will result in a 1 day ban.
@@ -122,7 +129,6 @@ This page is page about the **Rules** of the **Server**.
 - ❌ **No Discussing Player Punishments**
 
     - Please refrain from discussing your own punishments and other players' punishments in public chat.
-## 📘 Discord Rules
 ## Authors
 
 - [@antoniszikos16](https://github.com/antoniszikos16)
