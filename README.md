@@ -46,14 +46,14 @@ And the other are Server Members!
 
 
 ## 📃 Mod List
-
+Here are some of the mods that we use!
 | Mod             | Version                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Mod | Forge 1.12.2 |  
-| Mod | Forge 1.12.2 |
-| Mod | Forge 1.12.2 | 
-| Mod | Forge 1.12.2 | 
-| Mod | Forge 1.12.2 |
+| Tech Guns | Forge 1.12.2 |  
+| Security Craft | Forge 1.12.2 |
+| World Edit | Forge 1.12.2 | 
+| JEI | Forge 1.12.2 | 
+| DecoCraft | Forge 1.12.2 |
 
 > [!NOTE]
 > 📦 All the mods are in this ZIP file: [Click Here!](https://www.dropbox.com/sh/x212pf31khqj8zf/AABHVrLfW68hJIOX8rnQKF9na?dl=0)
@@ -92,6 +92,8 @@ If you have any feedback, please reach out to us at our [Communications Discord 
 
 
 
+## 📚 Rules
+**You can find our full list of rules [here](https://github.com/antoniszikos16/Police-And-Criminals-MC/blob/main/Rules.md).**
 ## 🔰 Our Badge
 
 **This is our badge**
@@ -107,4 +109,9 @@ If you have any feedback, please reach out to us at our [Communications Discord 
 This project is used by the following companies:
 
 - **MC Servers** *(Our Mini Company)*
+
+
+## Authors
+
+- [@antoniszikos16](https://github.com/antoniszikos16)
 
